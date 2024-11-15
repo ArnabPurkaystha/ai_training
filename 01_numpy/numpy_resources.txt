@@ -1,0 +1,2 @@
+official docs https://numpy.org/doc/stable/user/basics.html
+tutorial point https://www.tutorialspoint.com/numpy/index.htm

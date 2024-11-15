@@ -1,0 +1,4 @@
+licencing --> see
+framework-->bounded by limitation,cant customize
+library-->can be customized
+pandas works with structured data

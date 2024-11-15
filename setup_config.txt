@@ -1,0 +1,9 @@
+#commands for setting virtual function
+#python -m venv env
+#env\Scripts\activate
+#pip install -r requirements.txt
+
+
+topics: generator iterators, regular expressions,closures and decorators
+https://www.geeksforgeeks.org/advanced-python-tutorials/
+bitwise opration
