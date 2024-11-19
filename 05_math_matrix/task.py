@@ -58,6 +58,7 @@ def matrix_multiplication():
     second_matrix_row, second_matrix_column= row_column_input()
     print("Enter the elements of the second matrix:")
     matrix2=input_matrix(second_matrix_row, second_matrix_column)
+    print(matrix2)
     if first_matrix_column == second_matrix_row:
         result=np.ones((first_matrix_row, second_matrix_column))
         for i in range(first_matrix_row):
@@ -80,7 +81,7 @@ def matrix_transpose():
 
 def is_identity_matrix():
     rows,cols=row_column_input()
-    print("Enter the elements of the first matrix:")
+    print("Enter the elements of the matrix:")
     matrix=input_matrix(rows, cols)
     print(matrix)
     if rows != cols:
