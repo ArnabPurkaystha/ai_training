@@ -97,7 +97,7 @@ def main():
             print("Matrix must be square. Please re-enter.")
             continue
         print("Enter the elements of the matrix:")
-        matrix = input_matrix(num_of_row, num_of_col)
+        matrix = inputMatrix(num_of_row, num_of_col)
         break
     print("Original Matrix:")
     print(matrix)
