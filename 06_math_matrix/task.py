@@ -79,6 +79,7 @@ def inverse(matrix):
         print("Determinant is 0 so, Inverse of the matrix does not exist.")
         return None
     else:
+        print(f"Determinant is {determinant}")
         adjoint_matrix=adjoint(matrix)
         inverse_matrix=np.zeros((row,col))
         for i in range(row):
@@ -88,18 +89,21 @@ def inverse(matrix):
     
 def main():
     while True:
-        num_of_row,num_of_col =row_column_input()
-        if num_of_row ==-1 or num_of_col==-1:
-            break
+        num_of_row, num_of_col = row_column_input()
+        if num_of_row != num_of_col:
+            print("Matrix must be square. Please re-enter.")
+            continue
         print("Enter the elements of the matrix:")
-        matrix=input_matrix(num_of_row, num_of_col)
-        inverse_matrix=inverse(matrix)
-        if inverse_matrix is not None:
-            print("Inverse of the matrix is:")
-            print(inverse_matrix)
-        else:
-            print("Inverse of the matrix does not exist.")
+        matrix = input_matrix(num_of_row, num_of_col)
+        break
+    print("Original Matrix:")
+    print(matrix)
+    inverse_matrix = inverse(matrix)
+    if inverse_matrix is not None:
+        print("Inverse Matrix:")
+        print(inverse_matrix)
+    else:
+        pass 
 
 if __name__ == "__main__":
     main()
-
