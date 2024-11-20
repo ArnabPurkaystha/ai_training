@@ -23,6 +23,7 @@ def input_matrix(num_rows, num_cols):
         except ValueError as e:
             print(f"Error: {e}. Please re-enter Row {i+1}.")
     return np.array(matrix)
+
 def getMinor(matrix,row,col):
     minor_matrix = []
     for i in range(len(matrix)):
@@ -48,6 +49,7 @@ def getDeterminant(matrix):
         for col in range(len(matrix[0])):
             det+=((-1)**col)*matrix[0,col]*getDeterminant(getMinor(matrix,0,col))
         return det
+
 def cofactor(matrix):
     size=len(matrix)
     cofactor_matrix=np.zeros((size,size))
@@ -56,6 +58,7 @@ def cofactor(matrix):
             minor=getMinor(matrix,row,col)
             cofactor_matrix[row,col]=((-1)**(row+col))*getDeterminant(minor)
     return cofactor_matrix
+
 def matrix_transpose(matrix):
     size=len(matrix)
     transposed = np.zeros((size, size))
