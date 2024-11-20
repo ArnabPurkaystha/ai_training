@@ -1,5 +1,5 @@
 import numpy as np
-def row_column_input():
+def rowColumnInput():
     check=True
     while check:
         try:
@@ -10,7 +10,7 @@ def row_column_input():
             print(f"Error: {e}.")
     return (num_of_row, num_of_col)
 
-def input_matrix(num_rows, num_cols):
+def inputMatrix(num_rows, num_cols):
     matrix = []
     i = 0
     while i < num_rows:
@@ -59,7 +59,7 @@ def cofactor(matrix):
             cofactor_matrix[row,col]=((-1)**(row+col))*getDeterminant(minor)
     return cofactor_matrix
 
-def matrix_transpose(matrix):
+def matrixTranspose(matrix):
     size=len(matrix)
     transposed = np.zeros((size, size))
     for j in range(size):
@@ -69,7 +69,7 @@ def matrix_transpose(matrix):
 
 def adjoint(matrix):
     cofactor_matrix=cofactor(matrix)
-    return matrix_transpose(cofactor_matrix)
+    return matrixTranspose(cofactor_matrix)
 
 def inverse(matrix):
     row=matrix.shape[0]
@@ -92,7 +92,7 @@ def inverse(matrix):
     
 def main():
     while True:
-        num_of_row, num_of_col = row_column_input()
+        num_of_row, num_of_col = rowColumnInput()
         if num_of_row != num_of_col:
             print("Matrix must be square. Please re-enter.")
             continue
