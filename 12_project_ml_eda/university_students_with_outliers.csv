@@ -1,0 +1,220 @@
+Age,Gender,Major,Hours on Social Media,Friends/Followers,Social Media Platform,Posting Frequency,Academic Performance
+25,Female,Computer Science,7.2,336,Instagram,Rarely,Average
+23,Male,,7.1,945,Twitter,Rarely,Average
+21,Male,Business,0,1411,Snapchat,Never,Good
+25,Female,IT,7.7,1359,LinkedIn,Rarely,Poor
+20,Female,,7.1,924,Instagram,Rarely,Poor
+18,Female,Biology,0.9,368,Snapchat,Sometimes,Good
+25,Female,Mechanical,6.7,75,Snapchat,Rarely,Average
+26,Female,CSE,0.6,650,Snapchat,Rarely,Good
+25,Male,,5.7,848,Facebook,Never,Average
+23,,EEE,0.3,549,Facebook,Sometimes,Good
+22,Male,Psychology,0.6,1017,Facebook,Rarely,Good
+26,Female,CSE,0.5,272,TikTok,Rarely,Good
+22,Female,Business,3.1,1010,Twitter,,Poor
+22,Female,Biology,2.9,1049,Twitter,Rarely,Average
+18,Male,,0.6,1334,LinkedIn,Sometimes,Average
+23,Female,IT,6.5,292,LinkedIn,Rarely,Poor
+20,Male,Mechanical,1.7,1467,Snapchat,Often,Good
+25,Male,,3.3,716,LinkedIn,Rarely,Average
+24,Male,EEE,7.5,1373,Facebook,Often,Average
+26,Male,Biology,1.6,445,LinkedIn,Sometimes,Good
+21,Male,,5.3,382,Instagram,Rarely,Average
+19,Female,Psychology,0.4,375,Facebook,Rarely,Average
+23,Male,,4.2,1416,TikTok,Rarely,Average
+24,Female,CSE,7.5,1276,Snapchat,Sometimes,Average
+25,Female,Computer Science,6,269,TikTok,Rarely,Poor
+19,Male,Psychology,4.2,248,Snapchat,Sometimes,Poor
+24,Male,,4.7,475,LinkedIn,Often,Average
+20,Female,IT,3.8,1001,TikTok,Rarely,Poor
+23,Female,Biology,6.4,223,Instagram,Rarely,Poor
+21,Female,Business,0.8,623,Snapchat,Sometimes,Good
+20,Male,Computer Science,1.5,933,LinkedIn,Sometimes,Good
+21,Male,IT,2.5,0,LinkedIn,Never,Good
+25,Male,IT,7.6,739,Instagram,Rarely,Average
+19,Male,Computer Science,5.1,737,Facebook,Rarely,Good
+23,Female,Mechanical,6,1076,Snapchat,Sometimes,Poor
+20,Male,Business,7.1,818,LinkedIn,Never,Average
+20,Female,Computer Science,3.9,1007,LinkedIn,Sometimes,Average
+18,Female,Psychology,1.8,1013,Facebook,Rarely,Good
+18,Male,EEE,6.2,71,Instagram,Rarely,Average
+26,Male,EEE,0.2,1313,LinkedIn,Rarely,Good
+21,Female,EEE,3.4,1044,Instagram,Sometimes,Poor
+20,Female,Mechanical,3,1421,TikTok,Sometimes,Average
+24,Female,Biology,0.9,1322,Facebook,Often,Good
+26,Female,CSE,5.5,1403,TikTok,Rarely,Average
+23,Female,CSE,8,768,Facebook,Rarely,Average
+18,Male,CSE,2.3,301,LinkedIn,Rarely,Average
+24,Male,Mechanical,2.6,640,Snapchat,Sometimes,Good
+21,Male,Computer Science,3.5,369,LinkedIn,Rarely,Average
+19,Female,CSE,2.7,1361,TikTok,Sometimes,Average
+20,Male,CSE,2.4,334,Snapchat,Sometimes,Average
+26,Male,EEE,7.8,1426,LinkedIn,Rarely,Poor
+18,Female,IT,4.5,929,Twitter,Rarely,Average
+23,Male,Psychology,6.7,1385,LinkedIn,Rarely,Average
+25,Male,Mechanical,5.5,1483,Instagram,Rarely,Good
+23,Male,Biology,4.7,742,LinkedIn,Sometimes,Average
+18,Female,Mechanical,6.2,1486,Instagram,Rarely,Poor
+25,Male,IT,3.9,980,Twitter,Sometimes,Good
+21,Male,Biology,2,183,LinkedIn,Rarely,Good
+19,Female,,6.3,688,Instagram,Rarely,Average
+19,Female,Psychology,4,173,LinkedIn,Rarely,Average
+21,Female,Biology,7.5,1306,Instagram,Sometimes,Poor
+24,Male,,4.7,337,Twitter,Sometimes,Average
+19,Female,Business,7.3,1337,Twitter,Rarely,Good
+19,Female,Psychology,0.7,408,Instagram,Sometimes,Good
+20,Female,Mechanical,7.1,152,Snapchat,Rarely,Good
+24,Female,Computer Science,7.9,287,Facebook,Sometimes,Average
+18,Female,,7.6,472,Facebook,Rarely,Good
+25,Male,Mechanical,6.4,748,Snapchat,Rarely,Average
+24,Female,Psychology,5.9,689,Facebook,Never,Good
+20,Male,Business,2,1008,Facebook,Never,Good
+24,Male,CSE,5.3,559,Instagram,Never,Poor
+18,Female,Mechanical,6.6,1277,Twitter,Rarely,Poor
+19,Female,Business,1.6,635,Facebook,Rarely,Good
+21,Female,IT,0,449,LinkedIn,Never,Good
+21,Male,Mechanical,0,354,LinkedIn,Never,Good
+22,Female,Mechanical,2.8,1048,TikTok,Sometimes,Good
+19,Male,,4.9,886,LinkedIn,Sometimes,Average
+25,Male,Psychology,5.7,1131,Twitter,Rarely,Average
+19,Female,,0,748,TikTok,Never,Good
+25,Male,CSE,2.6,513,Instagram,Rarely,Average
+19,Female,IT,7.2,237,TikTok,Rarely,Average
+23,Male,IT,3.6,1172,Snapchat,Rarely,Average
+26,Female,Computer Science,0.3,1206,LinkedIn,Rarely,Good
+25,Male,CSE,11,1165,Twitter,Daily,Poor
+18,Female,Mechanical,1.5,55,TikTok,Rarely,Average
+24,Male,EEE,6.6,973,TikTok,Rarely,Poor
+24,Male,Psychology,3.8,370,Twitter,Often,Good
+22,Male,Computer Science,6.3,1392,Facebook,Sometimes,Poor
+19,Female,CSE,2.2,101,LinkedIn,Sometimes,Good
+25,Female,EEE,3.6,68,Instagram,Rarely,Poor
+20,Female,Psychology,3.7,587,Twitter,Often,Average
+23,Female,Computer Science,2.3,1123,Facebook,Often,Good
+23,Male,Computer Science,6.8,62,Instagram,Rarely,Good
+19,Female,IT,0,1383,Facebook,Never,Good
+22,Female,Biology,3,945,Facebook,Often,Good
+26,Female,Business,0.2,397,Twitter,Sometimes,Good
+21,Female,,0.3,888,LinkedIn,Sometimes,Average
+21,Male,EEE,6.6,350,Instagram,Rarely,Average
+21,Male,Computer Science,6,51,Instagram,Sometimes,Average
+21,Female,Psychology,2.8,693,Snapchat,Never,Good
+25,Male,Psychology,4,726,TikTok,Sometimes,Average
+25,Female,Computer Science,5.3,1316,Instagram,Rarely,Poor
+20,Female,Business,1.1,258,TikTok,Often,Good
+18,Female,IT,4.1,420,Snapchat,Rarely,Poor
+21,Female,Computer Science,4.9,1137,Snapchat,Rarely,Average
+22,Male,Mechanical,7.7,638,LinkedIn,Sometimes,Poor
+18,,Business,7.9,263,Snapchat,Never,Poor
+24,Male,Computer Science,6.7,468,Instagram,Rarely,Average
+20,Female,Biology,10,515,Facebook,Daily,Poor
+20,Female,Psychology,2.8,1383,Instagram,,Good
+18,,Business,7.2,720,TikTok,Rarely,Poor
+23,Female,Computer Science,1.8,482,Facebook,Often,Average
+24,Female,Psychology,3.5,65,Instagram,Rarely,Poor
+23,Male,Biology,5.7,378,Facebook,Never,Poor
+20,Male,,1.9,455,Snapchat,Sometimes,Average
+20,Male,IT,6.9,1322,LinkedIn,Sometimes,Average
+23,Female,Computer Science,4.5,1064,Snapchat,Sometimes,Average
+19,Male,EEE,2.8,818,Instagram,Rarely,Good
+24,Female,IT,0,1104,Snapchat,Never,Poor
+22,Female,EEE,1.3,1390,Facebook,Sometimes,Good
+18,,EEE,1.5,526,Snapchat,Sometimes,Good
+20,Male,EEE,5,94,Snapchat,Never,Poor
+24,Female,Psychology,7.3,180,Instagram,Never,Average
+25,Female,EEE,2.9,797,Facebook,,
+19,Male,CSE,4.8,1132,TikTok,Rarely,Average
+26,Male,IT,6.5,358,TikTok,Rarely,Poor
+18,Male,,2.6,1072,Twitter,Sometimes,Average
+23,Female,Biology,3.9,444,Instagram,Rarely,Good
+18,,Psychology,0,474,Snapchat,Never,Poor
+26,Male,Biology,3,1215,Twitter,Rarely,Average
+26,Male,Computer Science,4.8,1433,Snapchat,Rarely,Poor
+22,Male,IT,7.6,874,Facebook,,Poor
+26,Male,Computer Science,4.6,578,Facebook,Often,Poor
+22,Male,Biology,6.7,1130,TikTok,,Average
+19,Male,Biology,4.3,1387,Twitter,Often,Poor
+22,Female,CSE,1.2,75,LinkedIn,Never,
+26,Female,EEE,2.7,5036,Facebook,Rarely,Average
+20,Male,Business,2.9,450,LinkedIn,Rarely,Good
+26,Female,,3.6,118,TikTok,Sometimes,Average
+25,Male,Computer Science,2.1,1109,Instagram,Sometimes,Average
+24,Male,CSE,4.6,369,TikTok,Sometimes,Average
+26,Male,Psychology,1.7,749,Twitter,Never,Average
+19,,Business,0.4,790,TikTok,Never,Good
+25,Male,EEE,0.6,143,Instagram,Rarely,Good
+18,Male,Biology,5.4,114,TikTok,Sometimes,Average
+23,Male,CSE,3.5,701,Twitter,Never,Poor
+19,Male,EEE,5.8,1446,Twitter,Rarely,Poor
+24,Male,Biology,1.3,949,TikTok,Rarely,Average
+19,Female,Psychology,0.3,528,Instagram,Sometimes,Good
+25,Female,Psychology,3.8,593,Instagram,Rarely,Average
+21,Male,Business,1.5,1355,TikTok,Often,
+20,,Psychology,2,427,LinkedIn,Rarely,Good
+19,Female,Biology,0.3,298,Twitter,Never,Good
+22,Female,,3.5,301,Facebook,Rarely,Good
+24,Female,Mechanical,4.1,613,TikTok,Rarely,Average
+25,Female,IT,7.6,214,Twitter,Sometimes,Poor
+24,Male,Business,5.3,81,Snapchat,Rarely,Good
+24,Male,Psychology,2,194,LinkedIn,Sometimes,Average
+26,Female,Computer Science,4,724,Twitter,Rarely,Average
+18,Female,EEE,7.7,0,LinkedIn,Sometimes,Poor
+22,Female,IT,1.1,277,LinkedIn,Sometimes,Good
+26,Male,CSE,1.4,1262,Twitter,Sometimes,Average
+26,Female,Mechanical,5.7,130,Instagram,Often,Poor
+22,Female,IT,6.8,1229,Instagram,Rarely,Good
+19,Male,Business,5.7,1457,Facebook,Sometimes,Average
+26,Male,,1.5,1105,Instagram,Sometimes,
+23,Male,CSE,1.5,518,Facebook,Rarely,Good
+20,Female,Business,3.1,1261,TikTok,Sometimes,Average
+24,Male,Biology,4.7,562,Instagram,Sometimes,Good
+23,,Biology,0.7,1051,Snapchat,Rarely,Good
+24,Male,Computer Science,3.6,1083,Instagram,Sometimes,Average
+21,Female,Mechanical,7,536,Facebook,Rarely,Average
+23,Female,CSE,5.7,421,TikTok,Often,Average
+20,Male,Computer Science,12,864,Facebook,Sometimes,Poor
+18,Female,Mechanical,4.4,1145,Facebook,Rarely,
+21,Male,Biology,5.7,1491,TikTok,Never,Average
+23,Female,IT,3.7,8616,Snapchat,Sometimes,Good
+19,Male,Business,1.9,1474,Facebook,Often,Average
+26,Male,IT,0.2,1197,Instagram,Rarely,Average
+24,Male,EEE,0.1,308,Snapchat,Rarely,Good
+24,Male,Business,0,690,TikTok,Never,Good
+23,,Psychology,1.2,508,Snapchat,Often,Good
+20,Male,Biology,7.1,558,Facebook,Never,Good
+25,Female,,6.2,678,Twitter,Sometimes,Average
+18,Male,Computer Science,4.5,1147,Snapchat,Sometimes,Average
+20,Female,Business,4.5,203,TikTok,Rarely,Average
+18,Male,IT,0.2,811,Snapchat,Rarely,Average
+24,Male,IT,1.4,0,Snapchat,Sometimes,Good
+26,Male,Biology,7,93,Facebook,Sometimes,Average
+24,Male,Mechanical,7.7,99,Facebook,Rarely,Average
+25,Male,Psychology,7.7,487,Twitter,Often,Average
+21,Female,IT,6.2,1330,TikTok,Sometimes,Good
+24,Male,IT,0.4,0,LinkedIn,Sometimes,Average
+22,,EEE,6.4,341,Facebook,Sometimes,Average
+21,Female,Psychology,1.9,259,Instagram,Never,Average
+25,Male,Mechanical,1.4,1445,Facebook,Rarely,Good
+19,Male,Computer Science,7.8,269,Facebook,Rarely,Average
+19,Female,CSE,4.1,987,Facebook,Rarely,Average
+26,Male,Computer Science,7.4,761,LinkedIn,Rarely,Average
+18,Male,CSE,11,688,Instagram,Daily,Good
+25,Male,Computer Science,3,8,,Rarely,Poor
+25,Male,,3,30,Facebook,Rarely,Average
+24,Female,Computer Science,3,600,,Sometimes,Average
+25,Male,Computer Science,1,500,Facebook,Rarely,
+24,Male,Computer Science,3,20,Facebook,Rarely,Average
+25,Male,Computer Science,3,2500,Facebook,Sometimes,
+25,Male,IT,4,955,Facebook,Rarely,Average
+25,Male,Computer Science,2,1100,Facebook,,Average
+23,Male,CSE,1.5,300,Facebook,Rarely,Average
+25,Male,Computer Science & Engineering,2,560,Facebook,,Average
+25,Male,EEE,2,190,,,Average
+25,Male,CSE,3,600,Facebook,Rarely,Good
+27,Male,Computer Science,2,700,Facebook,Rarely,Average
+25,Male,CSE,3,500,,Sometimes,Good
+25,,CSE,3,500,Facebook,Rarely,Good
+25,Male,EEE,2,190,Twitter,Rarely,Average
+25,Male,,1,3000,Facebook,Rarely,Good
+26,Male,CSE,4,100,Facebook,Never,
+25,Male,Computer Science,1,1200,LinkedIn,,Good
