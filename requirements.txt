@@ -6,4 +6,4 @@ seaborn
 openpyxl
 scikit-learn
 plotly
-nbformat
+kaleido
